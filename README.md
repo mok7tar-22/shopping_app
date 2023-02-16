@@ -1,4 +1,14 @@
 # shopping_app
+Shopping app I used:-
+•	Flutter Framework
+•	Bloc State Management(cubit)
+•	Responsive (flutter_screenutil package)
+•	Theme mode
+•	MVC 
+•	Dio
+•	Shared Preferences
+•	onboarding screen
+•	Backend(https://www.getpostman.com/collections/94db931dc503afd508a5)
 
 A new Flutter project.
 
