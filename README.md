@@ -10,17 +10,7 @@ Shopping app I used:-
 •	onboarding screen
 •	Backend(https://www.getpostman.com/collections/94db931dc503afd508a5)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![onboarding](https://github.com/mok7tar-22/shopping_app/assets/93128332/f695f5f3-c661-4c2a-bc8b-4f92a9be360e)
+![Screenshot 2023-05-29 184645](https://github.com/mok7tar-22/shopping_app/assets/93128332/631e2433-10c4-47a5-a4a0-af2899114844)
+![Screenshot 2023-05-29 185007](https://github.com/mok7tar-22/shopping_app/assets/93128332/843d6a29-ac72-47e7-9d89-375202160414)
+![Screenshot 2023-05-29 185228](https://github.com/mok7tar-22/shopping_app/assets/93128332/d7d0ba20-79db-45b8-8817-0264c1bdd58e)
